@@ -1,0 +1,18 @@
+body {
+  background-image: url(img/bdy.jpg);
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 10em;
+}
+label {
+  font-size: 10pt;
+  color: black;
+  }
+ul {
+  background-color: #0000ffff;
+   padding: 1em;
+  margin: 2em auto;
+  width: 17em;
+  background: lightgreen;
+  border-radius: 3px
+}

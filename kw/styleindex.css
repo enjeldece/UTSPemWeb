@@ -1,0 +1,11 @@
+body {
+	background-image: url(img/gurun.jpg);
+	text-align: center;
+}
+table {
+	background-color:rgba(200,110,0, 0.6);
+	width: 800px;
+	height: 150px;
+	margin: 0 auto;
+
+}
